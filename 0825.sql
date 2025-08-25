@@ -47,3 +47,5 @@ alter table 고객
 
 alter table 고객 
                 drop column 가입날짜;
+                
+--테이블 변경: 제약조건 추가                
